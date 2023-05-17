@@ -1,0 +1,20 @@
+# virtual env
+/venv/
+.venv
+venv/
+
+# pycharm
+.idea
+/idea/
+idea/
+
+# environmental variables
+.env
+# Secrets
+secrets
+/secrets/
+/secrets
+
+/media/
+
+/fb_bm_api/for_testing.py
